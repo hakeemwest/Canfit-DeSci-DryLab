@@ -1,0 +1,13 @@
+{
+  "name": "Canfit DeSci AI Dry Lab",
+  "description": "A decentralized AI-powered bioinformatics research platform using blockchain for IP protection.",
+  "owner": "ABDUL HAKHEEM",
+  "timestamp": "2025-03-06",
+  "file_hash": "ipfs://bafkreibhgpouubkp6xiugom2kflxp7xoaclpa3bs73hsfl7lgji7aenxhq",
+  "license": "All rights reserved",
+  "attributes": {
+    "category": "Bioinformatics",
+    "blockchain": "Ethereum",
+    "version": "1.0"
+  }
+}
